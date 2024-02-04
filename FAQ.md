@@ -11,3 +11,10 @@ Showcase your best self—whether that means a fresh-from-the-groomer glamour sh
 Open the Hawt Dawg app and click on "Edit Profile." 
 Scroll down to the section called "Passions" and tell potential mates and friends all about the treats and toys that make your tail wag. 
 When you’re done, click “Save Changes” to show the world.
+
+## Photographs are good, but I have poor eyesight. Can I sniff other dogs instead?
+
+We regret that we are currently unable to offer scented profiles to our customers.
+As soon as human technology catches up with dog noses, we will definitely add a smell function to the application.
+In the meantime, why don't you meet at the dog park to sniff your new friend?
+
